@@ -2,3 +2,4 @@
 ### System Workflows
 ### Architecture Overview
 ### Automated Testing Pipelines
+### Core Integrations
